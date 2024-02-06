@@ -1,1 +1,1 @@
-# End to end Machine leanrning project
+# End to End Machine leanrning project
