@@ -1,4 +1,7 @@
 pandas
 numpy
 seaborn
--e . #this will call setup.py file 
+scikit-learn
+# catboost
+xgboost
+# -e . #this will call setup.py file 
