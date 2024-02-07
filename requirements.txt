@@ -1,7 +1,8 @@
-pandas
-numpy
-seaborn
-scikit-learn
-# catboost
-xgboost
+# pandas
+# numpy
+# seaborn
+# scikit-learn
+# # catboost
+# xgboost
+dill
 # -e . #this will call setup.py file 

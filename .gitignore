@@ -1,5 +1,6 @@
 # Unwanted Folders
 artifacts/
+logs/
 
 
 # Byte-compiled / optimized / DLL files
