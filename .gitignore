@@ -1,6 +1,7 @@
 # Unwanted Folders
 artifacts/
 logs/
+catboost_info/
 
 
 # Byte-compiled / optimized / DLL files
