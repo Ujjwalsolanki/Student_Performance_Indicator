@@ -6,5 +6,6 @@ scikit-learn
 xgboost
 pyarrow
 Flask
+flask_cors
 # catboost
-# -e .
+-e .
